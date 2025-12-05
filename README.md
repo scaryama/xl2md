@@ -169,7 +169,7 @@ This project was developed to convert Excel-based planning documents into Markdo
 ## 📚 Related Documentation
 
 - [Build Guide](README_BUILD.md)
-- [Development Documentation](README.md)
+- [한국어 문서](README_KR.md)
 
 ---
 
